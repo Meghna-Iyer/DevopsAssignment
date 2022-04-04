@@ -2,5 +2,5 @@ hello you!
 
 Editing file - code owner in cmd line
 
-Editing file - user2
+Editing file - user2 and user 1 bug fix
 
